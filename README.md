@@ -33,26 +33,26 @@ The model is trained using the [FER-2013](https://www.kaggle.com/datasets/msamba
 
 Clone the repository:
 
-git clone https://github.com/Deekshagowda25/Facial-emotion-detection-and-recognition-using-machine-learning-techniques.git
+`git clone https://github.com/Deekshagowda25/Facial-emotion-detection-and-recognition-using-machine-learning-techniques.git`
 
-cd Facial-emotion-detection-and-recognition-using-machine-learning-techniques
+`cd Facial-emotion-detection-and-recognition-using-machine-learning-techniques`
 
 ---
 
 ## Create a virtual environment
 
-python -m venv venv
+`python -m venv venv`
 
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 ---
 
 ## Install dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ---
 
 ## 🏋️ Model Training
 
-python train.py
+`python train.py`
